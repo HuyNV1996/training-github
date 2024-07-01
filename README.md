@@ -5,16 +5,9 @@ Chào mừng đến với kho lưu trữ kiến thức Github! Kho lưu trữ n�
 ## Mục Lục
 
 1. [Một số định nghĩa cơ bản](docs/dinh-nghia.md)
-2. [Lợi Ích Của Microservices](docs/loi-ich.md)
-3. [Microservices Với Node.js](docs/microservices-voi-nodejs.md)
-4. [Giao Tiếp Giữa Các Microservices](docs/giao-tiep.md)
-5. [Quản Lý Cấu Hình](docs/quan-ly-cau-hinh.md)
-6. [Chiến Lược Triển Khai](docs/chien-luoc-trien-khai.md)
-7. [Quản Lý Lỗi](docs/quan-ly-loi.md)
-8. [Bảo Mật](docs/bao-mat.md)
-9. [Tài Nguyên](docs/tai-nguyen.md)
-10. [Câu hỏi phỏng vấn](docs/cau-hoi-phong-van.md)
-10. [So sánh với kiến trúc Monolithic](docs/so-sanh.md)
+2. [Một số lệnh phổ biến](docs/lenh.md)
+3. [Các trường hợp sử dụng trong thực tế](docs/case-study.md)
+
 ## Đóng Góp
 
 Đóng góp luôn được chào đón! Vui lòng đọc hướng dẫn [đóng góp](CONTRIBUTING.md) trước khi thực hiện bất kỳ thay đổi nào.
