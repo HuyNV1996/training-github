@@ -192,5 +192,3 @@ git commit
 - **Kiểm tra và xác nhận**: Mỗi thay đổi trước khi hợp nhất vào nhánh chính phải được kiểm tra và xác nhận bởi ít nhất một thành viên khác trong nhóm.
 
 - **Theo dõi vấn đề**: Sử dụng issues để theo dõi và giải quyết các vấn đề trong quá trình phát triển.
-
-Mô hình GitFlow là một cách hiệu quả để quản lý và phát triển dự án phần mềm trong một môi trường làm việc nhóm. Bạn có thể điều chỉnh và tùy biến để phù hợp với nhu cầu cụ thể của dự án.
